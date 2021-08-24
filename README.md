@@ -1,5 +1,9 @@
 # eos-tools
 
-Experimental, not to be used by anyone!
+Pkg build tools.<br>
+Repo for use by the devs only.
 
-Note: currently out of date.
+```
+[endeavouros-testing-dev]
+Server = https://raw.githubusercontent.com/endeavouros-team/eos-tools/master/$repo
+```
